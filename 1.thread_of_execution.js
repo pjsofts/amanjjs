@@ -6,10 +6,12 @@ function handleNewPost(post) {
   
   function savePostToDatabase(post) {
     // Save the post data to the database
+    console.log("Save post to database");
   }
   
   function displayNewPost(post) {
     // Display the new post on the user's feed
+    console.log("displaying new post")
   }
   
   const newPost = {
