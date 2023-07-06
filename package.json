@@ -1,0 +1,26 @@
+{
+  "name": "advanced",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1.thread_of_execution.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node 1.thread_of_execution.js",
+    "db": "node mongo.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pjsofts/amanjjs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pjsofts/amanjjs/issues"
+  },
+  "homepage": "https://github.com/pjsofts/amanjjs#readme",
+  "dependencies": {
+    "mongodb": "^5.6.0"
+  },
+  "type":"module"
+}
